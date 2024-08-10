@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="image_desc">Foto Profil Github</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="search_hint">Masukkan Username</string>
+    <string name="name">Liana Eka Wardhani</string>
+    <string name="testUsername">Followers</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="rv_github">Followers</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="menu_fav">Favorite</string>
+    <string name="menu_tema">Light Mode</string>
+    <string name="menu_tema2">Darkk Mode</string>
+</resources>
